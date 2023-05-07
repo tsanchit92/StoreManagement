@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\SanchTri\OneDrive - Capgemini\Desktop\Store Management\employee-store-server"/>
+			<item value="C:\Users\SanchTri\OneDrive - Capgemini\Desktop\Store Management\employee-store-gateway"/>
+			<item value="C:\Users\SanchTri\OneDrive - Capgemini\Desktop\Store Management\employee-store-inventory"/>
+			<item value="C:\Users\SanchTri\OneDrive - Capgemini\Desktop\Store Management\employee-store-login"/>
+			<item value="C:\Users\SanchTri\OneDrive - Capgemini\Desktop\Store Management\storeEmployee"/>
+			<item value="C:\Users\SanchTri\OneDrive - Capgemini\Desktop\Store Management\employee-store-admin"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
